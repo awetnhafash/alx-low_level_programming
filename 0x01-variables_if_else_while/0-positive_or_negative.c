@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - returns the sign of a rundom number gerated
- * return: always 0
+ * main - Prints the sign of a random number gerated.
+ * return: Always 0 .
  */
 int main(void)
 {
@@ -21,6 +21,3 @@ int main(void)
 		printf("%d is zero\n", n);
 	return (0);
 }
-
-
-
