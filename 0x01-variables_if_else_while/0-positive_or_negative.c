@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - returns the sign of a rundom number gerated
- * return: always zero 
+ * return: always 0
  */
 int main(void)
 {
