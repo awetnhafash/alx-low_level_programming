@@ -3,9 +3,11 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
-/* main - generates a rundom number and then determines wheather the number is positive, negative or zero */
-/* return - returns always zero */
+/**
+ * betty style doc for function main goes there
+ * main - returns the sign of a rundom number gerated
+ * return: returns always zero 
+ */
 
 int main(void)
 {
