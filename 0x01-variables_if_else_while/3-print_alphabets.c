@@ -3,7 +3,7 @@
  * main - prints lowercase alphabets then upper case alphabets
  * Return: always 0
  */
-int mani(void)
+int main(void)
 {
 	{int a;
 	 int A;
