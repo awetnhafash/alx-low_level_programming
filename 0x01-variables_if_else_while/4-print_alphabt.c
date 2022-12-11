@@ -3,7 +3,7 @@
  * main - prints lowercase letters except e and q 
  * Return: always 0
  */
-int manin(void)
+int main(void)
 {
 	int i;
 	for(i = 97; i < 123; i++)
@@ -13,6 +13,6 @@ int manin(void)
 			putchar(i);
 	}
 	putchar('\n');
-	return (0);
+	return (0)
 }
 
