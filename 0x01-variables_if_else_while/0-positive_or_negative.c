@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - Prints the sign of a given random number.
- * return: Always 0 .
+ * Return: Always 0 .
  */
 int main(void)
 {
