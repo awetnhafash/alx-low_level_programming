@@ -13,5 +13,5 @@ int mani(void)
 		putchar(A);
 	}
 putchar('\n');
-return(0)
+return(0);
 }
