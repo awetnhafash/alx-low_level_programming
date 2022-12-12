@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * mani - prints hexadecimals in lowercase
+ * main - prints hexadecimals in lowercase
  * Return: always 0
  */
 int main(void)
