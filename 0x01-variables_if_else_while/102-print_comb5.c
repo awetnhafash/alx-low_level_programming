@@ -11,16 +11,16 @@ e = i = g = h = 48;
 while (h < 58)
 {
 	g = 48;
-       	while (g < 58)
+	while (g < 58)
 	{
-	       	e = 48;
+		e = 48;
 		while (e < 58)
 		{
 			i = 48;
 			while (i < 58)
 			{
 				opt1 = (h * 10) + g;
-			       	opt2 = (e * 10) + i;
+				opt2 = (e * 10) + i;
 				if (opt1 < opt2)
 				{
 					putchar(h);
