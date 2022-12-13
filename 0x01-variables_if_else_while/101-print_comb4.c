@@ -31,12 +31,12 @@ int main(void)
 					}putchar (',');
 					putchar (' ');
 				}
-				g++
+				g++;
 			}
-			i++
+			i++;
 		}
-		e++
-			putchar('\n');
-		return (0)
+		e++;
 	}
+	putchar('\n');
+	return (0);
 }
