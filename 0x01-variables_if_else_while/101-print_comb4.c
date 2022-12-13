@@ -11,7 +11,7 @@ int main(void)
 	i = 48;
 	e = 48;
 	g = 48;
-	while (i < 58)
+	while (e < 58)
 	{
 		i = 48;
 		while (i < 58)
@@ -21,9 +21,9 @@ int main(void)
 
 			{if (e != i && e !=g && i < g)
 				{
-					putchar (e);
-					putchar (i);
-					putchar (g);
+					putchar(e);
+					putchar(i);
+					putchar(g);
 					if (i == 56 && e == 55 && g ==57)
 					{
 						break;
