@@ -4,6 +4,7 @@
  * Return: always 0.
  * int main(void)
  */
+int main(void)
 {
 	int i;
 	long int n1, n2, fn;
