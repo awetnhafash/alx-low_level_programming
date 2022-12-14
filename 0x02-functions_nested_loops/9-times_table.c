@@ -1,11 +1,12 @@
 #include "main.h"
 /**
- * times_talbe - prints the 9 times table starting from 0.
+ * times_table - prints the 9 times table starting from 0.
  * Return: no return.
  */
 void times_table(void)
 {
 	int a, b, op;
+
 	for (a = 0; a <=9; a++)
 	{
 		_putchar(48);
