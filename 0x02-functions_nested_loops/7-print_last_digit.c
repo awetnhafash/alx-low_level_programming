@@ -4,7 +4,7 @@
  * @i: an integerr input numner
  * Return: last digit
  */
-int print_last digit(int i)
+int print_last_digit(int i)
 {
 	int ld;
 	
